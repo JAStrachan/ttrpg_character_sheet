@@ -1,0 +1,114 @@
+{
+   "type":"DND_5E_V1",
+   "character_name": "",
+   "class_level":"",
+   "player_name":"",
+   "race":"",
+   "background":"",
+   "experience_points":"",
+   "initiative":"",
+   "armour_class":"",
+   "defenses":"",
+   "inspiration":"",
+   "proficiency_bonus":"",
+   "speed":"",
+   "max_hp":"",
+   "current_hp":"",
+   "temp_hp":"",
+   "total_hit_dice":"",
+   "hit_dice":"",
+   "death_saves": {
+       "successes":0,
+       "failures":0
+   },
+   "other_proficiencies_languages":"",
+   "stats": {
+       "strength":"",
+       "dexterity":"",
+       "constitution":"",
+       "intelligence":"",
+       "wisdom":"",
+       "charisma":""
+   },
+   "saving_throws": {
+        "strength":{
+            "proficiency": false,
+            "modifier":""
+        },
+        "dexterity":{
+            "proficiency": false,
+            "modifier":""
+        },
+        "constitution":{
+            "proficiency": false,
+            "modifier":""
+        },
+        "intelligence":{
+            "proficiency": false,
+            "modifier":""
+        },
+        "wisdom":{
+            "proficiency": false,
+            "modifier":""
+        },
+        "charisma":{
+            "proficiency": false,
+            "modifier":""
+        }
+    },
+   "skills": {
+
+   },
+   "attacks_spellcasting":{
+       "attack": {
+           "name":"",
+           "atk_bonus":"",
+           "damage_type":"",
+           "description":""
+       }
+   },
+   "equipment":"",
+   "money": {
+       "cp":"",
+       "sp":"",
+       "ep":"",
+       "gp":"",
+       "pp":""
+   },
+   "features_traits":"",
+   "spells": {
+       "spellcasting_ability": "",
+       "spell_save_dc":"",
+       "spell_attack_bonus":"",
+       "spellbook":{
+           "spell":{
+               "name":"",
+               "level":"",
+               "casting_time":"",
+               "range/area":"",
+               "components":"",
+               "duration":"",
+               "school":"",
+               "attack/save":"",
+               "damage/effect":"",
+               "description":""
+           }
+       }
+   },
+   "character_attributes":{
+       "age":"",
+       "height":"",
+       "weight":"",
+       "eyes":"",
+       "skin":"",
+       "hair":"",
+       "personality_traits":"",
+       "ideals":"",
+       "bonds":"",
+       "flaw":""
+   },
+   "character_backstory":"",
+   "treasure":"",
+   "additional_features_traits":"",
+   "allies_organizations":""
+}
